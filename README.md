@@ -20,8 +20,8 @@ With expertise in **SQL, Power BI, Python, and Excel**, I turn raw data into mea
 
 🔹 [**Bank Customer Churn Analysis (Power BI)**](#) – Designed an interactive dashboard to identify churn patterns and customer behavior.  
 🔹 [**Walmart Sales Analysis (SQL + Python)**](#) – Analyzed transactional data to uncover revenue trends, top-performing categories, and growth opportunities.  
-🔹 [**Spotify Data Analysis (SQL + Python)**](#) – Explored listening trends, popular tracks, and artist insights using SQL queries and Python visualization.  
-🔹 [**Sales Growth Analysis (Excel)**](#) – Built Excel dashboards to track KPIs and visualize year-over-year sales growth.  
+🔹 [**Spotify Data Analysis (SQL + Python)**](https://github.com/Jeevan-K-M/Spotify-SQL-Project) – Explored listening trends, popular tracks, and artist insights using SQL queries and Python visualization.  
+🔹 [**Sales Growth Analysis (Excel)**] – Built Excel dashboards to track KPIs and visualize year-over-year sales growth.  
 
 👉 Explore my repositories for more real-world projects!  
 
