@@ -42,8 +42,7 @@ With expertise in **SQL, Power BI, Python, and Excel**, I turn raw data into mea
 ---
 
 ## 🤝 Connect With Me  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 📧 Email: yourmail@example.com  
+- 📧 Email: jeevankm0203@gmail.com  
 
 ---
 
