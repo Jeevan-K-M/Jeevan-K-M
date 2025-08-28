@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeevan K M  
 
-<!--
-**Jeevan-K-M/Jeevan-K-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Data Analyst | Transforming Data into Actionable Insights**  
 
-Here are some ideas to get you started:
+I love working with data to solve business problems, uncover trends, and build dashboards that drive decisions.  
+With expertise in **SQL, Power BI, Python, and Excel**, I turn raw data into meaningful stories that help businesses grow.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+## 📌 Featured Projects  
+
+🔹 [**Bank Customer Churn Analysis (Power BI)**](#) – Designed an interactive dashboard to identify churn patterns and customer behavior.  
+🔹 [**Walmart Sales Analysis (SQL + Python)**](#) – Analyzed transactional data to uncover revenue trends, top-performing categories, and growth opportunities.  
+🔹 [**Spotify Data Analysis (SQL + Python)**](#) – Explored listening trends, popular tracks, and artist insights using SQL queries and Python visualization.  
+🔹 [**Sales Growth Analysis (Excel)**](#) – Built Excel dashboards to track KPIs and visualize year-over-year sales growth.  
+
+👉 Explore my repositories for more real-world projects!  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeevankm7&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevankm7&layout=compact&theme=tokyonight)  
+
+---
+
+## 🎯 Current Focus  
+- Deepening expertise in **SQL & Power BI** with real-world case studies  
+- Applying **Python for business analytics & automation**  
+- Preparing for opportunities in **Business Analytics & Data Analyst roles**  
+
+---
+
+## 🤝 Connect With Me  
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 📧 Email: yourmail@example.com  
+
+---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jeevankm7)  
+
+✨ *"Data tells a story — I make sure it’s one worth listening to."*  
+
+
+---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jeevankm7)  
+
+✨ *"Data is the new oil, but insights are the real fuel for growth."*  
