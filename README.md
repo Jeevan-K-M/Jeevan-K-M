@@ -27,12 +27,7 @@ With expertise in **SQL, Power BI, Python, and Excel**, I turn raw data into mea
 
 ---
 
-## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeevankm7&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevankm7&layout=compact&theme=tokyonight)  
-
----
 
 ## 🎯 Current Focus  
 - Deepening expertise in **SQL & Power BI** with real-world case studies  
